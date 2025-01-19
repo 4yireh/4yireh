@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello!
+currently learning python...
 
 <!--
 **4yireh/4yireh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
